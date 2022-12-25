@@ -1,6 +1,8 @@
 # Cream-for-Cone
 
-Cream for Cone is a simple platformer game for Ice Cream Jam,
+Cream for Cone is a simple platformer game for Ice Cream Jam.
+
+This game was published on 2nd of October 2021 and Open-Sourced on 10th of December 2021.
 
 ## Background
 
